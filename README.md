@@ -43,4 +43,4 @@ Aqui estão as principais linguagens, ferramentas e conceitos com os quais traba
 
 * **LinkedIn:** [linkedin.com/in/brunomaurus](https://www.linkedin.com/in/brunomaurus)
 * **GitHub:** [github.com/eumaurus](https://github.com/eumaurus)
-* **E-mail:** (eumaurus@gmail.com)
+* **E-mail:** [eumaurus@gmail.com](eumaurus@gmail.com)
